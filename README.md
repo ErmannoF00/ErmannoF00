@@ -62,12 +62,12 @@
 <div align="center">
   <!-- RWTH Aachen Logo -->
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
-    <img src="Logo/RWTH.png" alt="RWTH Aachen" height="20" style="margin-right: 20px;">
+    <img src="Logo/RWTH.png" alt="RWTH Aachen" height="30" style="margin-right: 20px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Forschungszentrum Jülich Logo -->
   <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="70" style="margin-top: 20px; margin-left: 20px;">
+    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="90" style="margin-top: 40px; margin-left: 20px;">
   </a>
 </div>
 
