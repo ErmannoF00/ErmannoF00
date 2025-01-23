@@ -54,7 +54,7 @@
 <br/>
 <div align="center">
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RWTH_Logo_2018.svg/2560px-RWTH_Logo_2018.svg.png" alt="RWTH Aachen" height="100">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RWTH_Logo_2018.svg/2560px-RWTH_Logo_2018.svg.png](https://akww.de/wp-content/uploads/2020/09/RWTH_Logo_3.png)" alt="RWTH Aachen" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:e.fiorillo@fz-juelich.de">
