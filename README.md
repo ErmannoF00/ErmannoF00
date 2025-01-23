@@ -38,8 +38,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,git,latex" />
-    <img src="https://img.shields.io/badge/SystemVerilog-0298B8?style=flat-square&logo=verilog&logoColor=white" alt="SystemVerilog" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Chip.svg" alt="SystemVerilog" height="48" />
 </div>
+
 
 
 <div align="center">
