@@ -58,6 +58,11 @@
 ---
 
 <h2 align="center">🤝 Let's Connect! 🤝</h2>
+
+<div align="center">
+  <i>"Bridging biology and engineering for the future of computing."</i>
+</div>
+
 <br/>
 <div align="center">
   <!-- RWTH Aachen Logo -->
@@ -67,14 +72,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Forschungszentrum Jülich Logo -->
   <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="90" style="margin-top: 40px; margin-left: 20px;">
+    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="100" style="margin-top: 50px; margin-left: 20px;">
   </a>
 </div>
 
-
----
-
-<div align="center">
-  <i>"Bridging biology and engineering for the future of computing."</i>
-</div>
 
