@@ -21,9 +21,9 @@
 ---
 
 ### **🔬 Research Focus**
-- 🔍 Currently focused on **state-space models** implementation in **memristive hardware**.  
-- 🚀 Exploring the transition of **neuronal dynamics** to the **neuromorphic paradigm** for robust and energy-efficient computational systems.  
-- 📚 Passionate about software and hardware co-design and applications in next-generation AI systems.
+- Currently focused on **state-space models** implementation in **memristive hardware**.  
+- Exploring the transition of **neuronal dynamics** to the **neuromorphic paradigm** for robust and energy-efficient computational systems.  
+- Passionate about software and hardware co-design and applications in next-generation AI systems.
 
 ---
 
@@ -37,8 +37,10 @@
 <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,systemverilog,pytorch,git,latex" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,git,latex" />
+    <img src="https://img.shields.io/badge/SystemVerilog-0298B8?style=flat-square&logo=verilog&logoColor=white" alt="SystemVerilog" />
 </div>
+
 
 <div align="center">
 <h3>Languages</h3>
