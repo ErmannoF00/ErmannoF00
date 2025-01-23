@@ -58,9 +58,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[https://www.fz-juelich.de/](https://www.fz-juelich.de/profile/fiorillo_e)">
-    <img src="https://logowik.com/forschungszentrums-julich-seit-logo-vector-33890.html" alt="Forschungszentrum Jülich" height="100">
+    <img src="https://media.glassdoor.com/sqls/637518/forschungszentrum-j%C3%BClich-squarelogo-1516029180258.png" alt="Forschungszentrum Jülich" height="100">
   </a>
 </div>
+
+---
 
 <div align="center">
   <i>"Bridging biology and engineering for the future of computing."</i>
