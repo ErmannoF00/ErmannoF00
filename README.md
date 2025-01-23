@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ermanno 👋🏼</h1>
 
 <div align="center">
-  <a href="[Linkedin](https://www.linkedin.com/in/ermanno-fiorillo-799296171)" target="_blank">
+  <a href="([Linkedin](https://www.linkedin.com/in/ermanno-fiorillo-799296171))" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
