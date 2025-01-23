@@ -38,7 +38,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,git,latex" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Chip.svg" alt="SystemVerilog" height="48" />
+    <!-- SystemVerilog as Text Badge -->
+    <span style="font-size: 18px; font-weight: bold; background-color: #e4e4e4; border-radius: 5px; padding: 5px 10px; display: inline-block; margin-left: 5px;">
+        SystemVerilog
+    </span>
 </div>
 
 
@@ -64,10 +67,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Forschungszentrum Jülich Logo -->
   <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="40" style="margin-left: 20px;">
+    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="50" style="margin-top: 10px; margin-left: 20px;">
   </a>
 </div>
-
 
 
 ---
