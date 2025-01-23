@@ -57,14 +57,17 @@
 <h2 align="center">🤝 Let's Connect! 🤝</h2>
 <br/>
 <div align="center">
+  <!-- RWTH Aachen Logo -->
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/RWTH_Logo.svg/2560px-RWTH_Logo.svg.png" alt="RWTH Aachen" height="100">
+    <img src="https://www.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaabcctu" alt="RWTH Aachen" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Forschungszentrum Jülich Logo -->
   <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="https://media.glassdoor.com/sqls/637518/forschungszentrum-j%C3%BClich-squarelogo-1516029180258.png" alt="Forschungszentrum Jülich" height="100">
+    <img src="https://www.fz-juelich.de/_catalogs/masterpage/Logo_SVG.svg" alt="Forschungszentrum Jülich" height="100">
   </a>
 </div>
+
 
 ---
 
