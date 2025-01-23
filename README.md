@@ -57,9 +57,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/RWTH_Logo.svg/2560px-RWTH_Logo.svg.png" alt="RWTH Aachen" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:e.fiorillo@fz-juelich.de">
+  <a href="https://www.fz-juelich.de/profile/fiorillo_e">
     <img src="https://www.fz-juelich.de/de/shared/datastore/24839/67.gif" alt="Forschungszentrum Jülich" height="100">
   </a>
 </div>
+
 
 ---
