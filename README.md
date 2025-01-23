@@ -56,10 +56,16 @@
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/RWTH_Logo.svg/2560px-RWTH_Logo.svg.png" alt="RWTH Aachen" height="100">
   </a>
-  <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="https://www.fz-juelich.de/de/shared/datastore/24839/67.gif" alt="Forschungszentrum Jülich" height="100">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.fz-juelich.de/](https://www.fz-juelich.de/profile/fiorillo_e)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Forschungszentrum_J%C3%BClich_logo.svg" alt="Forschungszentrum Jülich" height="100">
   </a>
 </div>
 
 
+---
+
+<div align="center">
+  <i>"Bridging biology and engineering for the future of computing."</i>
+</div>
 ---
