@@ -10,7 +10,7 @@
 <hr/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%7C+Computer+Science;Neuromorphic+Computing+%7C+In-Memory+Computing;Curiosity+Driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=1000&color=0D47A1&center=false&vCenter=true&width=600&lines=Electrical+Engineering+%7C+Computer+Science;Neuromorphic+Computing+%7C+In-Memory+Computing;Curiosity+Driven)](https://git.io/typing-svg)
 
 <hr/>
 
