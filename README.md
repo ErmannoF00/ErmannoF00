@@ -15,8 +15,9 @@
 <hr/>
 
 🎓 **Master's Student** in Electrical Engineering, Information Technology, and Computer Science at **RWTH Aachen University**.  
-🧠 **Student Assistant** at **Forschungszentrum Jülich**.  
-👨‍💻 **Co-Founder** of ([Young Neuromorphs](https://linktr.ee/youngneuromorphs)).  
+🧠 **Student Assistant** at [Forschungszentrum Jülich PGI-14](https://www.fz-juelich.de/en/pgi/pgi-14).  
+👨‍💻 **Co-Founder** of [Young Neuromorphs](https://linktr.ee/youngneuromorphs).
+
 
 ---
 
