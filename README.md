@@ -72,7 +72,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Forschungszentrum Jülich Logo -->
   <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="Logo/Juelich.webp" alt="Forschungszentrum Jülich" height="100" style="margin-top: 50px; margin-left: 20px;">
+    <img src="Logo/Juelich.png" alt="Forschungszentrum Jülich" height="40" style="margin-left: 20px;">
   </a>
 </div>
 
