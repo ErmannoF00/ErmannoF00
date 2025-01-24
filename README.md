@@ -55,13 +55,8 @@
 
 <hr/>
 
----
 
 <h2 align="center">🤝 Let's Connect! 🤝</h2>
-
-<div align="center">
-  <i>"Bridging biology and engineering for the future of computing."</i>
-</div>
 
 <br/>
 <div align="center">
@@ -76,4 +71,8 @@
   </a>
 </div>
 
+---
 
+<div align="center">
+  <i>"Bridging biology and engineering for the future of computing."</i>
+</div>
