@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 <hr/>
 
 
@@ -35,7 +34,7 @@
 
 ---
 
-<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
+<h2 align="center"> TECHNOLOGIES & TOOLS</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,git,latex" />
@@ -48,7 +47,7 @@
 
 
 <div align="center">
-<h3>Languages</h3>
+<h3>LANGUAGES</h3>
 <img src="https://img.shields.io/badge/English-C1-f39f37?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/German-A2-6a994e?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Italian-Native-2a9d8f?style=flat-square&logoColor=white"/>
@@ -77,3 +76,11 @@
 <div align="center">
   <i>"Bridging biology and engineering for the future of computing."</i>
 </div>
+
+
+<div style="display: flex; justify-content: flex-end;">
+    <i>
+        <img src="https://komarev.com/ghpvc/?username=ErmannoF00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    </i>
+</div>
+
