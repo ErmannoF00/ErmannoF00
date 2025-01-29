@@ -62,7 +62,7 @@
 <div align="center">
   <!-- RWTH Aachen Logo -->
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
-    <img src="Logo/RWTH.png" alt="RWTH Aachen" height="30" style="margin-right: 20px;">
+    <img src="Logo/RWTH.png" alt="RWTH Aachen" height="40" style="margin-right: 20px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Forschungszentrum Jülich Logo -->
