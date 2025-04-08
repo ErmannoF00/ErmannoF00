@@ -73,10 +73,6 @@
 
 ---
 
-<div align="center">
-  <i>"Bridging biology and engineering for the future of computing."</i>
-</div>
-
 
 <div style="display: flex; justify-content: flex-end;">
     <i>
