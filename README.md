@@ -29,8 +29,8 @@
 
 ### **⚡ Key Areas of Interest**
 - Neuromorphic Hardware & Architectures  
-- Neuronal Modeling & Neuro-inspired Algorithms  
-- Bioelectronics & Bio-inspired Computing  
+- AI & Neuro-inspired Algorithms  
+- Bioelectronics & Neuroscience 
 
 ---
 
