@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Ermanno 👋🏼</h1>
+<h1 align="center">Hi, Ermanno here! 👋🏼</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ermanno-fiorillo-799296171" target="_blank">
@@ -34,28 +34,28 @@
 
 ---
 
-<h2 align="center">TECHNOLOGIES & TOOLS</h2>
+<h2 align="center">TECHNOLOGIES & TOOLS </h2>
+
 <p align="center">
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,git,latex" alt="Skills" /><br><br>
-  <!-- SystemVerilog Badge (text badge via Shields.io) -->
-  <img src="https://www.accellera.org/images/about/policies/logos/systemverilog-logo.png" alt="SystemVerilog Logo" width="90" height="30">
-  <!-- Cadence Logo -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cadence-Logo.svg" alt="Cadence" width="90" height="35" />
+
+  <!-- Extra Tools -->
+  <img src="https://www.accellera.org/images/about/policies/logos/systemverilog-logo.png" alt="SystemVerilog" width="100" height="30" style="margin: 10px;" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cadence-Logo.svg" alt="Cadence" width="100" height="30" style="margin: 10px;" />
 </p>
 
+---
 
 <div align="center">
-<h3>LANGUAGES</h3>
-<img src="https://img.shields.io/badge/English-C1-f39f37?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/German-A2-6a994e?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Italian-Native-2a9d8f?style=flat-square&logoColor=white"/>
+  <h2>LANGUAGES</h2>
+  <img src="https://img.shields.io/badge/English-C1-f39f37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/German-A2-6a994e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Italian-Native-2a9d8f?style=for-the-badge&logoColor=white" />
 </div>
 
-<hr/>
-
-
-<h2 align="center">🤝 Let's Connect! 🤝</h2>
+---
+<h2 align="center">🤝</h2>
 
 <br/>
 <div align="center">
@@ -71,6 +71,7 @@
 </div>
 
 ---
+
 
 
 <div style="display: flex; justify-content: flex-end;">
