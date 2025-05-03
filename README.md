@@ -34,16 +34,15 @@
 
 ---
 
-<h2 align="center"> TECHNOLOGIES & TOOLS</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,git,latex" />
-    <!-- SystemVerilog as Text Badge -->
-    <span style="font-size: 18px; font-weight: bold; background-color: #e4e4e4; border-radius: 5px; padding: 5px 10px; display: inline-block; margin-left: 5px;">
-        SystemVerilog
-    </span>
-</div>
-
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
+<p align="center">
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,git,latex" alt="Skills" /><br><br>
+  <!-- SystemVerilog Badge (text badge via Shields.io) -->
+  <img src="https://www.accellera.org/images/about/policies/logos/systemverilog-logo.png" alt="SystemVerilog Logo" width="90" height="30">
+  <!-- Cadence Logo -->
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cadence-Logo.svg" alt="Cadence" width="90" height="35" />
+</p>
 
 
 <div align="center">
