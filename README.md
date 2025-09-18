@@ -56,7 +56,8 @@
   <img src="https://img.shields.io/badge/Italian-Native-2a9d8f?style=for-the-badge&logoColor=white" />
 </div>
 
----
+
+
 <h2 align="center">🤝</h2>
 
 <div align="center">
@@ -64,13 +65,19 @@
   <table>
     <tr>
       <td align="center" width="200" height="80">
-        <img src="Logo/Prophesee.png" alt="Prophesee" style="max-height:60px; max-width:180px;">
+        <a href="mailto:efiorillo@prophesee.ai">
+          <img src="Logo/Prophesee.png" alt="Prophesee" style="max-height:60px; max-width:180px;">
+        </a>
       </td>
       <td align="center" width="200" height="80">
-        <img src="Logo/RWTH.jpg" alt="RWTH Aachen" style="max-height:60px; max-width:180px;">
+        <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
+          <img src="Logo/RWTH.jpg" alt="RWTH Aachen University" style="max-height:60px; max-width:180px;">
+        </a>
       </td>
       <td align="center" width="200" height="80">
-        <img src="Logo/Juelich.png" alt="Forschungszentrum Jülich" style="max-height:60px; max-width:180px;">
+        <a href="https://www.fz-juelich.de/profile/fiorillo_e">
+          <img src="Logo/Juelich.png" alt="Forschungszentrum Jülich" style="max-height:60px; max-width:180px;">
+        </a>
       </td>
     </tr>
   </table>
