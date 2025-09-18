@@ -59,23 +59,25 @@
 ---
 <h2 align="center">🤝</h2>
 
-<br/>
 <div align="center">
-  <!-- Prophesee Logo -->
-  <a href="mailto:efiorillo@prophesee.ai">
-    <img src="Logo/Prophesee.png" alt="Prophesee" height="40" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- RWTH Aachen Logo -->
-  <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
-    <img src="Logo/RWTH.jpg" alt="RWTH Aachen" height="40" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Forschungszentrum Jülich Logo -->
-  <a href="https://www.fz-juelich.de/profile/fiorillo_e">
-    <img src="Logo/Juelich.png" alt="Forschungszentrum Jülich" height="40" style="margin-left: 20px;">
-  </a>
+
+  <table>
+    <tr>
+      <td align="center" width="200" height="80">
+        <img src="Logo/Prophesee.png" alt="Prophesee" style="max-height:60px; max-width:180px;">
+      </td>
+      <td align="center" width="200" height="80">
+        <img src="Logo/RWTH.jpg" alt="RWTH Aachen" style="max-height:60px; max-width:180px;">
+      </td>
+      <td align="center" width="200" height="80">
+        <img src="Logo/Juelich.png" alt="Forschungszentrum Jülich" style="max-height:60px; max-width:180px;">
+      </td>
+    </tr>
+  </table>
+
 </div>
+
+
 
 ---
 
