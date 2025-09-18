@@ -14,6 +14,7 @@
 <hr/>
 
 🎓 **Master's Student** in Electrical Engineering, Information Technology, and Computer Science at **RWTH Aachen University**.  
+👨‍💻 **Software Engineer Intern** at [Prophesee](https://www.prophesee.ai/).  
 👨‍💻 **Student Assistant** at [Forschungszentrum Jülich PGI-14](https://www.fz-juelich.de/en/pgi/pgi-14).  
 🧠 **Co-Founder** of [Young Neuromorphs](https://linktr.ee/youngneuromorphs).
 
@@ -21,7 +22,8 @@
 ---
 
 ### **🔬 Research Focus**
-- Currently focused on **state-space models** implementation in **memristive hardware**.  
+- Currently working on dynamic vision sensors (**DVS**) characterization.
+- Research studies focused on **state-space models** implementation in **analog memristive hardware**.  
 - Exploring the transition of **neuronal dynamics** to the **neuromorphic paradigm** for robust and energy-efficient computational systems.  
 - Passionate about software and hardware co-design and applications in next-generation AI systems.
 
@@ -59,6 +61,11 @@
 
 <br/>
 <div align="center">
+  <!-- Prophesee Logo -->
+  <a href="mailto:efiorillo@prophesee.ai">
+    <img src="Logo/Prophesee.png" alt="Prophesee" height="40" style="margin-right: 20px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- RWTH Aachen Logo -->
   <a href="mailto:ermanno.fiorillo@rwth-aachen.de">
     <img src="Logo/RWTH.jpg" alt="RWTH Aachen" height="40" style="margin-right: 20px;">
