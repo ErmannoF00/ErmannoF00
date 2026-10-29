@@ -68,7 +68,7 @@
     <tr>
       <td align="center" width="200" height="80">
         <a href="https://www.imec-int.com/en/">
-          <img src="imec.png" alt="imec" style="max-height:60px; max-width:180px;">
+          <img src="Logo/imec.png" alt="imec" style="max-height:60px; max-width:180px;">
         </a>
       </td>
       <td align="center" width="200" height="80">
