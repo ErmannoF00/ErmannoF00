@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, Ermanno here! 👋🏼</h1>
 
 <div align="center">
@@ -14,25 +15,26 @@
 <hr/>
 
 🎓 **Master's Student** in Electrical Engineering, Information Technology, and Computer Science at **RWTH Aachen University**.  
-👨‍💻 **Software Engineer Intern** at [Prophesee](https://www.prophesee.ai/).  
-👨‍💻 **Student Assistant** at [Forschungszentrum Jülich PGI-14](https://www.fz-juelich.de/en/pgi/pgi-14).  
+🔬 **Research Intern** at [imec](https://www.imec-int.com/en/).  
+👨‍💻 **Former Software Engineer Intern** at [Prophesee](https://www.prophesee.ai/).  
+👨‍💻 **Former Student Assistant** at [Forschungszentrum Jülich PGI-14](https://www.fz-juelich.de/en/pgi/pgi-14).  
 🧠 **Co-Founder** of [Young Neuromorphs](https://linktr.ee/youngneuromorphs).
 
 
 ---
 
 ### **🔬 Research Focus**
-- Currently working on dynamic vision sensors (**DVS**) characterization.
-- Research studies focused on **state-space models** implementation in **analog memristive hardware**.  
-- Exploring the transition of **neuronal dynamics** to the **neuromorphic paradigm** for robust and energy-efficient computational systems.  
-- Passionate about software and hardware co-design and applications in next-generation AI systems.
+- Currently researching **neural processing unit (NPU) architectures** at imec, focusing on **digital RTL, hardware–software co-design, and architectural/full-system simulation** for efficient AI inference.
+- Previously worked on machine-learning-based **dynamic vision sensor (DVS) characterization** and sensor-simulation workflows at Prophesee.
+- Explored **state-space model** implementations in **analog neuromorphic hardware**, using circuit-level simulation and ML co-simulation at Forschungszentrum Jülich.
+- Interested in connecting **neural signal processing, neuromorphic computing, and energy-efficient hardware** for next-generation AI systems and neural interfaces.
 
 ---
 
 ### **⚡ Key Areas of Interest**
 - Neuromorphic Hardware & Architectures  
 - AI & Neuro-inspired Algorithms  
-- Bioelectronics & Neuroscience 
+- Bioelectronics, Neuroscience & Brain–Computer Interfaces
 
 ---
 
@@ -65,6 +67,11 @@
   <table>
     <tr>
       <td align="center" width="200" height="80">
+        <a href="https://www.imec-int.com/en/">
+          <img src="imec.png" alt="imec" style="max-height:60px; max-width:180px;">
+        </a>
+      </td>
+      <td align="center" width="200" height="80">
         <a href="mailto:efiorillo@prophesee.ai">
           <img src="Logo/Prophesee.png" alt="Prophesee" style="max-height:60px; max-width:180px;">
         </a>
@@ -95,4 +102,3 @@
         <img src="https://komarev.com/ghpvc/?username=ErmannoF00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
     </i>
 </div>
-
